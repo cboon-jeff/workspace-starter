@@ -1,0 +1,19 @@
+{
+	"licenseKey": "openfin-demo-license-key",
+	"startup_app": {
+		"metadata": {
+			"version": "0.0.0"
+		},
+		"name": "BigUrlExample",
+		"description": "Just opening google.com",
+		"autoShow": true,
+		"frame": true,
+		"saveWindowState": true,
+		"splashScreenImage": "public/jefLogo.png",
+		"url": "http://www.google.com",
+		"uuid": "bigurl"
+	},
+	"runtime": {
+		"version": "34.118.78.80"
+	}
+}
